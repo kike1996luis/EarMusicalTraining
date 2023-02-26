@@ -1,5 +1,7 @@
 # EarMusicalTraining
-A Java Desktop application to develop musical ear to recognize tones, based on the tonal gravity theory
+A Java Desktop application to develop musical ear to recognize tones, based on the tonal gravity theory most called (Lydian Chromatic Concept of Tonal Organization)
+
+https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization
 
 This application was entirely made with Java Swing for personal purposes.
 
