@@ -3,9 +3,13 @@ A Java Desktop application to develop musical ear to recognize tones, based on t
 
 https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization
 
+# Technology Notes
+
 This application was entirely made with Java Swing for personal purposes.
 
 As a musician i always wanted to learn how to develop and train my musical skills and ear, but using the synesthesia and tonal gravity to better recognize the tonalities of the songs, or maybe the tone of the song that a musician is playing.
+
+# Way of use
 
 The application has two modes:
 
